@@ -1,4 +1,6 @@
 Rewrite of original 6502 optimizer to optimize only and leave out 
 assembling step which original did.
 
+Added ability to tag functions as bankable for bank switching but
+changed to marking banking with CALL instead of FUNC.
 
