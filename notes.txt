@@ -1,0 +1,4 @@
+Rewrite of original 6502 optimizer to optimize only and leave out 
+assembling step which original did.
+
+
